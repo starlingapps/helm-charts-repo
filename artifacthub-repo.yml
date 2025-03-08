@@ -10,7 +10,7 @@
 # NOT apply to ownership claim operations, which are processed immediately.
 #
 #repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
-repositoryID: f13f21c9-c5ab-4649-aca1-48195f2a4fb9
+repositoryID: 8c4112be-802e-4815-8a4b-d29989996fcc
 owners: # (optional, used to claim repository ownership)
   - name: StarlingApps
     email: training.starlingapps@gmail.com
